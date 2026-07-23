@@ -1,0 +1,17 @@
+---
+title: "ECON 484 Term Paper: "
+output: pdf_document
+author: Kennedy Jokonya
+date: "`r Sys.Date()`"
+---
+
+```{r output=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
+#libs
+library(class)
+library(glmnet)
+library(rpart)
+library(rpart.plot)
+library(kableExtra)
+
+#source("scripts/riskTolerance.R")
+```
